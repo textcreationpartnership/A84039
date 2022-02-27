@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The envy of the popish prelates, against the City of London and faithfull ministers of Gods vvord. Shewing also their willingnesse to helpe against Scotland, and their slacknesse and want of pitty to the poore protestants in Ireland. Likewise their readinesse to raise a tumult at Westminster, by stirring up the constables to withstand the citizens of London in Christmas last.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84039</idno>
+            <idno type="STC">Wing E3140</idno>
+            <idno type="STC">Thomason E142_11</idno>
+            <idno type="STC">ESTC R212739</idno>
+            <idno type="EEBO-CITATION">99871315</idno>
+            <idno type="PROQUEST">99871315</idno>
+            <idno type="VID">156578</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84039)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156578)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E142[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The envy of the popish prelates, against the City of London and faithfull ministers of Gods vvord. Shewing also their willingnesse to helpe against Scotland, and their slacknesse and want of pitty to the poore protestants in Ireland. Likewise their readinesse to raise a tumult at Westminster, by stirring up the constables to withstand the citizens of London in Christmas last.</title>
+               </titleStmt>
+               <extent>[2], 6 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for I.C.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page illustration.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156578:1" rendition="simple:additions"/>
+            <p>The Envy of The Popiſh Prelates, Againſt the City of LONDON AND Faithfull Miniſters of Gods Word.</p>
+            <p>Shewing alſo their willingneſſe to helpe againſt Scotland, and their ſlackneſſe and want of pitty to the poore Proteſtants in Ireland.</p>
+            <p>Likewiſe their readineſſe to raiſe a tumult at Weſtminſter, by ſtirring up the Conſtables to withſtand the Citizens of London in Chriſtmas laſt.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Printed at London for <hi>I.C.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156578:2"/>
+            <pb n="1" facs="tcp:156578:2"/>
+            <head>The envy of the Popiſh Prelates.</head>
+            <p n="1">
+               <note place="margin">H. Stalbridge h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Epiſt: prin<g ref="char:EOLhyphen"/>ted at Baſill.</note>1.<seg rend="decorInit">A</seg>S the preſtigious Prieſts in their Woolfe-like ravening under <hi>Romes</hi> crueltie, <hi>Ann.</hi> 1530. were as deceit<g ref="char:EOLhyphen"/>full as craftie foxes; in whoſe dens were bred ſuch cruel Adders as have ever ſince carried ſtings in their tails to oppreſſe the Church of God, So are thoſe Foxes whelps now become not onely as ſubtile as their Dammes, but as cruell as their Sires in their ſubtilties.</p>
+            <p n="2">2. In that Reforming <hi>Parliament,</hi>
+               <note place="margin">Rho, Mors his Lamentation, title of Ch. 23 B. Hall his Re<g ref="char:EOLhyphen"/>monſtrance, &amp; Replies, and a<g ref="char:EOLhyphen"/>ny of them all will now con<g ref="char:EOLhyphen"/>feſſe it.</note> the Prelates preten<g ref="char:EOLhyphen"/>ded to be fearfull of the deſtruction of the Church, and the ceaſing of that glory in which this Kingdome then was, and therefore pretended to take great care for both. And thus do our Prelates imitate them; if we remove them and their Diſcipline, they traduce us to beleeve, there will never be any ſettlement in the Church of <hi>England,</hi> and if they be taken from their palaces, and dig<g ref="char:EOLhyphen"/>nities, all the glory of this Nation will be eclipſed.</p>
+            <p>
+               <note place="margin">Hol. Chronicle Prelates like Satan can transform themſelves in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Angels of light.</note>But for all the crueltie of thoſe <hi>Romiſh</hi> Woolfes that were then reſident in this Iſland, yet were they ſuch ſub<g ref="char:EOLhyphen"/>tile foxes, that when they ſaw that the <hi>Romane</hi> juriſdicti<g ref="char:EOLhyphen"/>on was contemptible, they then put upon them the skins of thoſe Lambes which before they had devoured, as if
+<pb n="2" facs="tcp:156578:3"/>they had been thoſe harmleſſe ones: they joyned, a<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> they had been both aſſociates, and aſſiſtants in the work; and therefore pretended not onely to write, but to ſwear ſolemnly againſt that <hi>Romane</hi> juriſdiction; nay they would pretend any thing, and transform themſelves into any ſhape, ſo they might but hold their livings, and be permitted in their dominions, and dignities, as they did <hi>Anno</hi> 1534. And juſt of their diſpoſition are our Prelates now,<note place="margin">Th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y are ap<g ref="char:EOLunhyphen"/>parant by the Proteſtation, enemies.</note> for whereas (as who will may clearly enough per<g ref="char:EOLhyphen"/>ceive) that they are more cruell now againſt the poore Proteſtants, then any woolfes: witneſſe their crueltie (to their power) executed in their Courts, their forwardnes againſt the Proteſtants in <hi>Scotland,</hi> to work their over<g ref="char:EOLhyphen"/>throw;<note place="margin">The Pr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tes were willing to help againſt Scotland, but have no pi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y to the poore Proteſtants in Ireland to help them H. S<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Epiſt.</note> their backwardneſſe to have the poore diſtreſſed Proteſtants in <hi>Ireland</hi> relieved, or the Rebels there ſub<g ref="char:EOLhyphen"/>dued: they would give great ſummes to devoure the Proteſtants in <hi>Scotland</hi> or <hi>England,</hi> or any where indeed; But where is one of them now, that will part with any thing to haſten the expedition againſt the cruell Adders, and viperous Rebels in <hi>Ireland,</hi> that have crept from un<g ref="char:EOLhyphen"/>der the Rubbiſh of their heaps, that have been bred in their dwellings, And yet now they ſee the whole Land to lament for theſe poore diſtreſſed Proteſtants in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> they dare not be ſo bold as to make a ſhew of ſiding with the Rebels, but we may eaſily perceive what lies at their hearts, when the <hi>Scots</hi> roſe, they ſoon procured them to be proclamed Rebels; but now the Devill and Rome, and Prelates, and Papiſts, and Rebels, riſe in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> they never ſollicite the King for any ſuch matter (I warrant you.) They ſit in <hi>Parliament,</hi> and they will make a ſhew to the world to joyn with the Parliament in the great work they are about. But have we not juſt cauſe to complain againſt them, that they are but as knots in the thread that ſhould ſew up the Seames and Rents of theſe Kingdomes, and yet they ſit as Agents in the work; And what hath been done there, they (but how unwil<g ref="char:EOLhyphen"/>lingly who doth not know) have aſſented to? Nay, they
+<pb n="3" facs="tcp:156578:3"/>have taken the Oath too,<note place="margin">Prelates took the Proteſtati<g ref="char:EOLhyphen"/>on onely to colour and daube over their Popery and Innova<g ref="char:EOLhyphen"/>tions.</note> in which they have proteſted againſt all Popery, and Popiſh Innovations; they have grown braſen faced ever ſince, they are hardned now, they have got whores foreheads; and inſtead of ſcarlet bluſh (which they affect well enough too) they have got black and white obſtinacy, and will be daunted with no<g ref="char:EOLhyphen"/>thing. And yet indeed now as the caſe ſtands, they are willing a while to preach, they will be ruled by the Par<g ref="char:EOLhyphen"/>liament, they will forſake their <hi>Canon Law,</hi> they will be the Kings Biſhops, they will ſtoop to any thing now, ſo they may abide in their livings, and enjoy their domi<g ref="char:EOLhyphen"/>nions and dignities, which if they be let alone, they hope in ſhort time to riſe up again as high as ever.</p>
+            <p n="4">4. Now if we do but examine the matter,<note place="margin">B. of Martyrs, Rh. M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Ch. 23</note> we ſhall finde how deceitfull thoſe Prelates were. For after they had thus bound themſelves by their own cords,<note place="margin">Foxes Acts and Monu<g ref="char:EOLhyphen"/>ments. See Tho. W<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lf. Ypodigma Neuſtriae, Ann. 1371.1.132.</note> and paſt it over as before, which they did to make the King and State beleeve, that the Popes juriſdiction, and all Popery was utterly baniſhed out of <hi>England,</hi> and that all was now ſetled for the conforming of the Proteſtant Church here; But ſee how both the King and the State was de<g ref="char:EOLhyphen"/>ceived by them; a company of baſe diſſembling Prelates (that they were) for the very ſame day they both by word and letter, at home, and abroad, took all occaſions to draw back King <hi>Hen.</hi> the 8. his Highneſſe from Re<g ref="char:EOLhyphen"/>formation.</p>
+            <p>And are not our Prelates now as falſe as they? who for all they have paſſed the Oath, and proteſted againſt Po<g ref="char:EOLhyphen"/>pery, and entred into Covenant with the Lord by the ſaid Proteſtation, to make the King and State beleeve,<note place="margin">Prelates are Juglers, even the moſt mo<g ref="char:EOLhyphen"/>derne of them are faultie therein. B. Hal Arch. B. of York, &amp;c.</note> that all Popery was baniſhed from their hearts, yet how have they juggled in the buſineſſe, and dealt deceitfully with us already, even ſince their Proteſtation. Them<g ref="char:EOLhyphen"/>ſelves ſtill maintain their former Popiſh dominions, and government, and diſcipline; many and great points of Popiſh doctrine, labouring to binde mens conſciences to obſerve their Liturgie, and many of their Innovations;
+<pb n="4" facs="tcp:156578:4"/>and thoſe of them in whom was the greateſt hopes (if any:) One hath ſince purchaſed an <hi>Archbiſhoprick,</hi>
+               <note place="margin">How notori<g ref="char:EOLhyphen"/>ous is their Proteſtation againſt the high and ho<g ref="char:EOLhyphen"/>no<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ble Aſ<g ref="char:EOLhyphen"/>ſembly in Parliament, Decemb. 30. 1641.</note> and what his Adherents be, the exploytes of his Abbey-lub<g ref="char:EOLhyphen"/>bers can teſtifie: And is it not too apparantly manifeſt to us all, how active the whole body of the Popiſh Pre<g ref="char:EOLhyphen"/>lates have been againſt Reformation: Have not they beene the greateſt trouble both to his Majeſty, and both the Houſes of Parliament hitherto in the great Work they are about.</p>
+            <p n="5">5. On the other hand,<note place="margin">8. Martyrs, Ep<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt of Gr. F. La Iſ. Cr.</note> thoſe Prelates, <hi>Anno</hi> 1540. did procure Injunctions and Articles, with penalties attend<g ref="char:EOLhyphen"/>ed; and themſelves ſate in Commiſſion, and were the chief proſecutors of ſuch as withſtood them. And is not the ſpirit of our Popiſh Prelates at this day ſo qualified alſo?</p>
+            <p>
+               <note place="margin">The Prelates labour to hin<g ref="char:EOLhyphen"/>der Reforma<g ref="char:EOLhyphen"/>tion all they can.</note>Have they not alreadie procured votes in the Vpper Houſe for the ſtrict obſervance of their Liturgie, and a Proclamation from the Kings Majeſtie alſo, have they not taken all the pains, and made all the friends they can, and uſed all the policy that they can invent, to have Re<g ref="char:EOLhyphen"/>formation broken off, and their tyranny to be brought on foot again; have they not (even at this day) ſet the Land in a great fear of them? Witneſſe <hi>Decem,</hi> 30. 1641.</p>
+            <p n="6">6. Their attempts afterward appeared more plain, to be both againſt the King, the Queen, the State, the Church:<note place="margin">Queen Kathe<g ref="char:EOLhyphen"/>rine Par, Earl Cromwel, &amp;c.</note> yea and the whole Land too; for all their pre<g ref="char:EOLhyphen"/>tences, and deceitfull boaſtings: They appeared to be but Woolfes in Fox skins, for they were the chief cauſe then in attempting of the death of the Queen, of ſome good Nobles, and many faithfull ſubjects beſides.</p>
+            <p>
+               <note place="margin">They by their dealings with us expoſe both King, Queen, Prince, Parlia<g ref="char:EOLhyphen"/>ment. &amp;c. to danger.</note>And our Prelates are their right ſhapen ſons, qualified with as blood thirſtie ſpirits as they; Do they not to this day expoſe the whole Land to danger for them, ſparing neither King, Queen, Prince, States, Parliament, Church, nor the whole land? Do they not more earneſtly ſolicite for ſeven condemned Ieſuites, then for the poore di<g ref="char:EOLhyphen"/>ſtreſſed Kingdome of <hi>Ireland?</hi> nay doth it not eaſily ap<g ref="char:EOLhyphen"/>peare,
+<pb n="5" facs="tcp:156578:4"/>that they had rather expoſe us all to the mercileſſe cruelty of the Popiſh, then themſelves to be bereft of their Pope-like domineering.</p>
+            <p>
+               <note place="margin">They are blood ſuckers.</note>In a word, how do the Papiſts Prelates in <hi>Ireland</hi> ſuck the <hi>Engliſh</hi> Proteſtant blood there? And how do the <hi>Eng<g ref="char:EOLhyphen"/>liſh.</hi> Prelates labour daily to make <hi>England</hi> to become a ſlaughter houſe to them, that therby they may ſhare our blood amongſt them, and ſo we become their prey.</p>
+            <p n="7">7. King <hi>Henry</hi> his Prelates cauſed divers godly Citizens of <hi>London,</hi> and other Miniſters,<note place="margin">Engliſh Cro. B. Martyr.</note> and godly people to bee impriſoned; caſt into the fiery flames, and ſtirred up the State againſt them, even at the ſame time, when others died for executing their office under the Pope, and ad<g ref="char:EOLhyphen"/>hering to the Biſhop of <hi>Rome.</hi>
+            </p>
+            <p>
+               <note place="margin">They are Je<g ref="char:EOLhyphen"/>ſuites friends, but Prote<g ref="char:EOLhyphen"/>ſtants enemies</note>And at this day when ſuch care is taken againſt Popiſh Prieſts and Ieſuites (as God be thanked there is) and ſome have ſuffered: and if it were not for the Prelates, doubtleſſe the others would alſo: yet how doe our Pre<g ref="char:EOLhyphen"/>lates enveigh againſt the City, and divers godly Mini<g ref="char:EOLhyphen"/>ſters, and people of God, witneſſe <hi>Ireland,</hi> who hath been the cauſe that Kingdom had relief no ſooner: Was it not the <hi>Engliſh</hi> Prelates? Who was it that ſtirred up the Con<g ref="char:EOLhyphen"/>ſtables about <hi>Weſtminſter,</hi> to withſtand the City, was it nor they? Do not they agree in <hi>Parliament</hi> with the votes of the Popiſh Lords againſt Reformation?</p>
+            <p>
+               <note place="margin">They would take upon them to ſettle the Land, a fine way to bring in Po<g ref="char:EOLhyphen"/>pery, if they could obtain it.</note>Oh how they take upon them, how they could ſettle the Land in quietneſſe, when as themſelves have beene the boyſterous winds that have ſo diſturbed our waves; yet they boaſt, that if the Puritans, and Browniſts, and ſome Sectaries, as they call them, were cut off, and ſome of the Citizens, oh then the Land would be quiet. And this they do to the end that they might gain an opportu<g ref="char:EOLhyphen"/>nitie againe to ſhare the <hi>Romiſh</hi> government of the Land amongſt themſelves; which could they obtaine, they would ſo reduce us, that they would ſoon reduce the Land to Popery, and (we may juſtly fear) bring us under as much cruelty as ever Queen <hi>Maries</hi> Prelates, or King
+<pb n="6" facs="tcp:156578:5"/>
+               <hi>Henry</hi> 8. his Prelates ſubdued them. Therfore I conclude with <hi>Rodericke Morſe</hi> in his Lamentation, Oh <hi>England England,</hi>
+               <note place="margin">The Conclu<g ref="char:EOLhyphen"/>ſion.</note> if thou wilt baniſh Antichriſt, and the Pope out of this Realm, thou muſt fell downe to the ground thoſe rotten Poaſts the Biſhops: (which be clouds with<g ref="char:EOLhyphen"/>out moiſture) and utterly aboliſh all and every his un<g ref="char:EOLhyphen"/>godly Laws, Decrees, Traditions, and Ceremonies, without ſignifications;<note place="margin">No ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>curity can be expect<g ref="char:EOLhyphen"/>ed till they be removed.</note> for they do but wait for a time, to rob ſome Nobleman of his wit. And this is certain, that as the Pope is enemie to the Goſpel, ſo be his chil<g ref="char:EOLhyphen"/>dren the leſſer Biſhops; therfore they cannot be ſuffered thus to reign, except we be partakers of their iniquitie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſpillers with them of the blood of the Righteous.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
